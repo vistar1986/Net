@@ -4,7 +4,7 @@
 
 <p align="center"><a href="http://liangjingkanji.github.io/Net/">使用文档</a>
  | <a href="https://coding-pages-bucket-3558162-8706000-16642-587704-1252757332.cos-website.ap-shanghai.myqcloud.com/">备用访问</a>
- | <a href="https://raw.githubusercontent.com/liangjingkanji/Net/master/sample/release/sample-release.apk">下载体验</a>
+ | <a href="https://raw.githubusercontent.com/liangjingkanji/Net/master/sample/release/net-sample.apk">下载体验</a>
 </p>
 
 <p align="center"><img src="https://i.imgur.com/X06J6fK.jpg" width="400"/></p>
